@@ -45,7 +45,7 @@
             "searchable":1,
             "quickSearch":1,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+            "ext":"82e1098bbcf942aaa07d78af51528850+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
         },
         {
             "key":"sansan",
@@ -558,7 +558,7 @@
             "quickSearch":1,
             "filterable":0,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
+            "ext":"82e1098bbcf942aaa07d78af51528850+4k|fhd|auto$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294"
         },
         {
             "key":"PanSou",
@@ -568,7 +568,7 @@
             "searchable":1,
             "quickSearch":1,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
+            "ext":"82e1098bbcf942aaa07d78af51528850+4k|auto|fhd"
         },
        {
 			"key": "Zhaozy",
@@ -578,7 +578,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"changeable": 0,
-			"ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$1225339347@qq.com$$$122533"
+			"ext": "82e1098bbcf942aaa07d78af51528850+4k|auto|fhd$$$1225339347@qq.com$$$122533"
 		},
         {
             "key":"七夜",
@@ -588,7 +588,7 @@
             "searchable":1,
             "quickSearch":1,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
+            "ext":"82e1098bbcf942aaa07d78af51528850+auto|4k|fhd"
         },
         {
             "key":"UpYun",
@@ -599,7 +599,7 @@
             "quickSearch":1,
             "filterable":0,
             "changeable":0,
-            "ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+            "ext":"82e1098bbcf942aaa07d78af51528850+4k|fhd|auto"
         },
         {
             "key":"九六",
@@ -619,7 +619,7 @@
             "searchable":1,
             "quickSearch":1,
             "filterable":1,
-            "ext":"http://127.0.0.1:9978/file/tvboxqq/token.txt"
+            "ext":"82e1098bbcf942aaa07d78af51528850"
         }
     ],
     "parses":[
