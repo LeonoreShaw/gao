@@ -21,7 +21,7 @@
 ],
 "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
 "sites":[
-{"key":"玩偶哥哥","name":"  📺 ","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"edb93530c057402ca8fb35e855a2319c+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
+{"key":"玩偶哥哥","name":"  📺 ","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt+4k|auto|fhd$$$https://www.wogg.xyz/$$$弹"},
 {"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"drpy_js_磁力熊搜索","name":"磁力熊┃搜索[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/cilixiong.js","searchable":0,"quickSearch":0,"changeable":1},
 {"key":"drpy_js_新片场","name":"新片场┃新片[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/新片场.js"},
@@ -59,12 +59,12 @@
 {"key":"csp_Nbys","name":"泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_trj","name": "唐人街┃飞","type": 3,"api": "csp_Tangrenjie","searchable": 1,"quickSearch": 1,"filterable": 1},
 
-{"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"edb93530c057402ca8fb35e855a2319c+4k|auto|fhd"},
-{"key":"Zhaozy","name":"找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"edb93530c057402ca8fb35e855a2319c+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"},
-{"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"edb93530c057402ca8fb35e855a2319c+4k|auto|fhd"},
-{"key":"UpYun","name":"Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"edb93530c057402ca8fb35e855a2319c+4k|auto|fhd"},
-{"key":"PanSearch","name":"盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"edb93530c057402ca8fb35e855a2319c+4k|auto|fhd"},
-{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"edb93530c057402ca8fb35e855a2319c+4k|auto|fhd"},
+{"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt+4k|auto|fhd"},
+{"key":"Zhaozy","name":"找资源┃搜索","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt+4k|auto|fhd$$$zhaoziyuan777$$$qqq111"},
+{"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt+4k|auto|fhd"},
+{"key":"UpYun","name":"Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt+4k|auto|fhd"},
+{"key":"PanSearch","name":"盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt+4k|auto|fhd"},
+{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt+4k|auto|fhd"},
 
 {"key":"csp_AList","name":"AList┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"ext":"./json/alist.json"},
 {"key":"新6V","name":"新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/","timeout":30},
