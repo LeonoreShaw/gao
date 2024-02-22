@@ -83,12 +83,7 @@
 {"key":"MV_vod","name":"卡拉OK┃MV","type":1,"api":"https://mv.wogg.link/mv/vod","searchable":1,"style":{ "type":"oval", "ratio":1.1 },"changeable":1,"filterable":1,"changeable":0},
 {"key":"csp_xBPQ_短视频","name":"短视频┃聚合[XBPQ]","type":3,"api":"csp_XBPQ","changeable":0,"ext":"./XBPQ/短视频.json"},
 
-{"key":"drpy_js_360影视","name":"官源┃360[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/360影视.js"},
-{"key":"drpy_js_奇珍异兽","name":"官源┃爱奇艺[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/奇珍异兽.js"},
-{"key":"drpy_js_百忙无果","name":"官源┃芒果[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/百忙无果.js"},
-{"key":"drpy_js_腾云驾雾","name":"官源┃腾讯[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/腾云驾雾.js"},
-{"key":"drpy_js_菜狗","name":"官源┃搜狗[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/菜狗.js"},
-{"key":"drpy_js_优酷","name":"官源┃优酷[js]","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
+
 {"key":"drpy_js_我的哔哩","name":"弹幕┃我的哔哩[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/我的哔哩.js"},
 {"key":"drpy_js_哔哩直播","name":"弹幕┃哔哩直播[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/哔哩直播.js"},
 {"key":"drpy_js_JustLive","name":"直播┃JustLive[js]","type":3,"api":"./lib/drpy2.min.js","style":{"type":"rect","ratio":1.597},"changeable":0,"ext":"./js/JustLive.js"},
