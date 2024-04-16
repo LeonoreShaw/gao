@@ -65,12 +65,12 @@
 {"key":"csp_Yj1211","name":"网红┃直播","type": 3,"api": "csp_Yj1211","playerType":"1","searchable": 0,"quickSearch": 1,"changeable":0},
 {"key":"csp_Nbys","name":"泥巴┃飞","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"夸搜","name":"夸搜┃搜索","type":3,"api":"csp_QuarkPanso","searchable":1,"quickSearch":1,"changeable":0,"ext": {"quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
-{"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
-{"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
-{"key":"UpYun","name":"Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
-{"key":"PanSearch","name":"盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"tvfan/token.txt","from":"4k|auto|fhd"}},
-{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"aliToken":"tvfan/token.txt","quarkCookie":"tvfan/cookie.txt","from":"4k|auto|fhd"}},
+{"key":"夸搜","name":"夸搜┃搜索","type":3,"api":"csp_QuarkPanso","searchable":1,"quickSearch":1,"changeable":0,"ext": {"quarkCookie":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/quark.txt","from":"4k|auto|fhd"}},
+{"key":"YiSo","name":"易搜┃搜索","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt","from":"4k|auto|fhd"}},
+{"key":"PanSou","name":"盘搜┃搜索","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt","from":"4k|auto|fhd"}},
+{"key":"UpYun","name":"Up搜┃搜索","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt","from":"4k|auto|fhd"}},
+{"key":"PanSearch","name":"盘Se┃搜索","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":0,"ext": {"aliToken":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt","from":"4k|auto|fhd"}},
+{"key":"push_agent","name":"手机┃推送","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext": {"aliToken":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt","quarkCookie":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/quark.txt","from":"4k|auto|fhd"}},
 
 {"key":"csp_AList","name":"AList┃网盘","type":"3","api":"csp_AList","searchable":"0","quickSearch":"0","filterable":"1","changeable":0,"ext":"./json/alist.json"},
 {"key":"新6V","name":"新6V磁力┃慎用","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":0,"ext": "http://www.xb6v.com/","timeout":60},
