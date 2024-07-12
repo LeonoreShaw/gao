@@ -1,4 +1,4 @@
-name: Upstream Sync
+git remote -vname: Upstream Sync
 
 permissions:
   contents: write
