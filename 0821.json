@@ -1,7 +1,9 @@
 {
 "spider":"./jar/fan.txt;md5;6c4ab3a9d232164c75534f9060506ee5",
 "logo":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/ys.png",
-"lives":[{"name":"初秋语•ipv4","type":0,"url":"./list.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+"lives":[
+{"name":"XXiao","type":0,"url":"https://static.xxiao.org/iptv.m3u","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
+{"name":"初秋语•ipv4","type":0,"url":"./list.txt","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://live.fanmingming.com/tv/{name}.png"},
 {"name":"YanG•综合","type":0,"url":"https://tv.iill.top/m3u/Gather","ua": "okhttp/3.15","playerType":2,"epg":"http://epg.112114.xyz/?ch={name}&date={date}"},
 {"name":"YanG•直播","type":0,"url":"https://tv.iill.top/m3u/Live","ua": "okhttp/3.15","playerType":2},
 {"name":"YanG•体育","type":0,"url":"https://tv.iill.top/m3u/Sport","ua": "okhttp/3.15","playerType":2},
@@ -23,9 +25,9 @@
 {"key":"玩偶","name":"  📺 ","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":0, "ext": {"Cloud-drive":"https://gh.xxiao.org/https://raw.githubusercontent.com/LeonoreShaw/static/main/token.txt","from":"4k|auto","siteUrl":"https://www.wogg.net/","danMu":"弹"}},
 {"key":"豆豆","name":"豆瓣┃搜索","type": 3, "api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"csp_YGP","name":"预告片┃新片","type":3,"api":"csp_YGP","searchable":1,"quickSearch":1,"changeable":0},
-{"key":"csp_Bili","name":"哔哩┃合集","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"style":{"type":"rect","ratio":1.597},"filterable":1,"changeable":0,"ext":"./json/chuqiuyu.json"},
+{"key":"csp_Bili","name":"哔哩┃合集","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"style":{"type":"rect","ratio":1.597},"filterable":0,"changeable":0,"ext":"./json/chuqiuyu.json"},
 {"key":"csp_xuexi","name":"哔哩┃课堂","type":"3","api":"csp_Bili","searchable":"0","quickSearch":"0","style":{"type":"rect","ratio":1.597},"filterable":"1","changeable":0,"ext":"./json/xuexi.json"},
-{"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":1,"quickSearch":1,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
+{"key":"csp_Aid","name":"急救┃指南","type":3,"api":"csp_FirstAid","searchable":0,"quickSearch":0,"changeable":0,"style": { "type": "rect", "ratio":3.8}},
 {"key":"lf_js_lf_live","name":"电视┃直播","type":3,"api":"./lib/lf_live_min.js","style":{ "type":"oval"},"searchable":1,"changeable":0,"quickSearch":1,"filterable":1,"ext":"./js/lf_live.txt"},
 
 {"key":"926看球","name":"926┃看球","type":3,"api":"csp_kanqiu926","searchable":0,"changeable":0,"style":{"type":"list"}},
